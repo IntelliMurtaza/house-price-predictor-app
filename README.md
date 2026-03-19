@@ -41,8 +41,8 @@ house-price-predictor-app/
 │   ├── columns.pkl
 │
 ├── notebook/
-#│   └── house_price_model.ipynb
-#│
+│   └── house_price_model.ipynb
+│
 ├── data/
 │   └── train.csv
 │
