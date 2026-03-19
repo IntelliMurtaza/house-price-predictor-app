@@ -33,16 +33,16 @@ This project focuses not only on model building but on creating a complete ML pi
 
 ## 📂 Project Structure
 
-house-price-predictor-app/
-│
-├── app.py                  # Streamlit app
-├── model/
-│   ├── house_price_pipeline.pkl
-│   ├── columns.pkl
-│
-├── notebook/
-│   └── house_price_model.ipynb
-│
+#house-price-predictor-app/
+#│
+#├── app.py                  # Streamlit app
+#├── model/
+#│   ├── house_price_pipeline.pkl
+#│   ├── columns.pkl
+#│
+#├── notebook/
+#│   └── house_price_model.ipynb
+#│
 ├── data/
 │   └── train.csv
 │
